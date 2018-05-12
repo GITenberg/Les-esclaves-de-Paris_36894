@@ -15,6 +15,8 @@ creator:
     - http://en.wikipedia.org/wiki/%C3%89mile_Gaboriau
     - http://fr.wikipedia.org/wiki/%C3%89mile_Gaboriau
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36894#Les-esclaves-de-Paris
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2011-07-29'
 gutenberg_type: Text
